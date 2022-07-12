@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * @a: input array.
+ * @a: input array
  * @n: input n elements
  * Return: nothing
  */
