@@ -1,8 +1,8 @@
 #include "main.h"
 #include <stdio.h>
-
 /**
- * @a: input array
+ * print_array - prints n elements of an array of integers.
+ * @a: input array.
  * @n: input n elements
  * Return: nothing
  */
