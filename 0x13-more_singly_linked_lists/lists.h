@@ -1,6 +1,6 @@
-#ifndef _LISTS_
+#ifndef _LISTS_H_
 
-#define _LISTS_
+#define _LISTS_H_
 
 
 
